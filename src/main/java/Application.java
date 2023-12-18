@@ -5,9 +5,11 @@ public class Application {
         Boxes<Fruits> thirdBox = new Box<Fruit> ( );
 
         Apple apple = new Apple ( );
+        Apple secApple = new Apple ( );
         Orange orange = new Orange ( );
 
         appleBox.putSmthIn (apple);
+        appleBox.putSmthIn (secApple);
         appleBox.boxView ( );
 
         appleBox.emptyInto (secBox);
