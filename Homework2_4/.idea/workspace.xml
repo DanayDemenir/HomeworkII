@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a695f579-ca4b-41be-944d-2a3d9b728043" name="Changes" comment="Дз Аннотации">
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/HomeWork2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/out/production/HomeWork2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/out/production/HomeWork2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/out/production/HomeWork2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/out/production/HomeWork2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/out/production/HomeWork2/HomeWork2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2/out/production/HomeWork2/Testing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_3/HomeWork_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_3/TestingOOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_3/out/production/HomeWork_3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_3/out/production/HomeWork_3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_3/out/production/HomeWork_3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_3/out/production/HomeWork_3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_3/out/production/HomeWork_3/HomeWork_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_3/out/production/HomeWork_3/PrintSomething.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_3/out/production/HomeWork_3/Testing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork_3/out/production/HomeWork_3/TestingOOP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/Vault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/out/production/Homework  6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/out/production/Homework  6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/out/production/Homework  6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/out/production/Homework  6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/out/production/Homework  6/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/out/production/Homework  6/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/out/production/Homework  6/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/out/production/Homework  6/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 1/out/production/Homework  6/Vault.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/Homework  6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/Vault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/out/production/Homework  6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/out/production/Homework  6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/out/production/Homework  6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/out/production/Homework  6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/out/production/Homework  6/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/out/production/Homework  6/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/out/production/Homework  6/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/out/production/Homework  6/Homework  6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/out/production/Homework  6/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 2/out/production/Homework  6/Vault.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/Vault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/out/production/Homework  6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/out/production/Homework  6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/out/production/Homework  6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/out/production/Homework  6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/out/production/Homework  6/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/out/production/Homework  6/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/out/production/Homework  6/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/out/production/Homework  6/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6 3/out/production/Homework  6/Vault.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/Homework  6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/Vault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/out/production/Homework  6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/out/production/Homework  6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/out/production/Homework  6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/out/production/Homework  6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/out/production/Homework  6/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/out/production/Homework  6/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/out/production/Homework  6/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/out/production/Homework  6/Homework  6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/out/production/Homework  6/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework  6/out/production/Homework  6/Vault.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/Homework 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/RandomArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/Sorting_machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/out/production/Homework 4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/out/production/Homework 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/out/production/Homework 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/out/production/Homework 4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/out/production/Homework 4/Homework 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/out/production/Homework 4/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/out/production/Homework 4/RandomArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/out/production/Homework 4/SortIntArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 4/out/production/Homework 4/Sorting_machine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/DoSomething.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/Homework 7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/SomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/out/production/Homework 7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/out/production/Homework 7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/out/production/Homework 7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/out/production/Homework 7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/out/production/Homework 7/DoSomething.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/out/production/Homework 7/Homework 7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/out/production/Homework 7/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/out/production/Homework 7/SomeClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 7/out/production/Homework 7/SomeError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 8/AnswersTab.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework 8/QuestionTab.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/7.5.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/7.5.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/7.5.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/7.5.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/7.5.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/8.3/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/8.3/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/8.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/8.3/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/8.3/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/8.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/8.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/8.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/8.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/8.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/8.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/8.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/build/classes/java/main/HelloOtus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/build/libs/Homework-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/build/libs/gradleHelloWorld-0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/build/tmp/.cache/expanded/expanded.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/build/tmp/shadowJar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/hw01-gradle/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/hw01-gradle/build/classes/java/main/HelloOtus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/hw01-gradle/build/libs/hw01-gradle-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/hw01-gradle/build/tmp/.cache/expanded/expanded.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/hw01-gradle/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/hw01-gradle/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework/src/main/java/HelloOtus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.5.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/7.5.1/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/7.5.1/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/7.5.1/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/7.5.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/7.5.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/7.5.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/8.3/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/8.3/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/8.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/8.3/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/8.3/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/8.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/8.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/8.3/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/8.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/8.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/8.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/8.3/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/build/classes/java/main/HelloOtus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/build/libs/Homework-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/build/libs/gradleHelloWorld-0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/build/tmp/.cache/expanded/expanded.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/build/tmp/shadowJar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/hw01-gradle/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/hw01-gradle/build/classes/java/main/HelloOtus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/hw01-gradle/build/libs/hw01-gradle-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/hw01-gradle/build/tmp/.cache/expanded/expanded.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/hw01-gradle/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/hw01-gradle/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/hw01-gradle/src/main/java/HelloOtus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/src/main/java/HelloOtus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/cashmachine/bank/dao/AccountDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/cashmachine/bank/dao/CardsDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/cashmachine/bank/data/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/cashmachine/bank/data/Card.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/cashmachine/bank/db/Accounts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/cashmachine/bank/db/Cards.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/cashmachine/bank/service/AccountService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/cashmachine/bank/service/CardService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/cashmachine/bank/service/impl/AccountServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/cashmachine/bank/service/impl/CardServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/cashmachine/machine/data/CashMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/cashmachine/machine/data/MoneyBox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/cashmachine/machine/service/CashMachineService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/cashmachine/machine/service/MoneyBoxService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/cashmachine/machine/service/impl/CashMachineServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/classes/java/main/otus/study/cashmachine/machine/service/impl/MoneyBoxServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/cashmachine/bank/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/cashmachine/bank/dao/CardsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/cashmachine/bank/data/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/cashmachine/bank/data/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/cashmachine/bank/db/Accounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/cashmachine/bank/db/Cards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/cashmachine/bank/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/cashmachine/bank/service/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/cashmachine/bank/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/cashmachine/bank/service/impl/CardServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/cashmachine/machine/data/CashMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/cashmachine/machine/data/MoneyBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/cashmachine/machine/service/CashMachineService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/cashmachine/machine/service/MoneyBoxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/cashmachine/machine/service/impl/CashMachineServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/main/java/otus/study/cashmachine/machine/service/impl/MoneyBoxServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/test/java/otus/study/cashmachine/TestUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/test/java/otus/study/cashmachine/bank/service/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/test/java/otus/study/cashmachine/bank/service/CardServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/test/java/otus/study/cashmachine/machine/service/CashMachineServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/src/test/java/otus/study/cashmachine/machine/service/MoneyBoxServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework3/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework3/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_1/src/HomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/source/BuildFinalString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/source/BuildNumberFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/source/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/source/InputNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/source/NumberList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/source/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/source/SplitInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/source/SplitNumToDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/source/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/test/AllTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/test/BuildFinalString/BuildFinalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/test/Currency/GetCurrencyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/test/NumberList/NumberListGiveStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10 1/test/SplitInt/SplitIntTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/Homework_10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/Homework_10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/source/BuildFinalString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/source/BuildNumberFromString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/source/Currency.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/source/InputNum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/source/NumberList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/source/Print.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/source/SplitInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/source/SplitNumToDec.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/source/main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/test/AllTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/test/BuildFinalString/BuildFinalTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/test/Currency/GetCurrencyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/test/NumberList/NumberListGiveStringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/out/production/Homework_10/test/SplitInt/SplitIntTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/source/BuildFinalString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/source/BuildNumberFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/source/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/source/InputNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/source/NumberList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/source/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/source/SplitInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/source/SplitNumToDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/source/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/test/AllTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/test/BuildFinalString/BuildFinalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/test/Currency/GetCurrencyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/test/NumberList/NumberListGiveStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework_10/test/SplitInt/SplitIntTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L18-testingOrigins/homework/src/main/java/ru/otus/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L18-testingOrigins/homework/src/main/java/ru/otus/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L18-testingOrigins/homework/src/main/java/ru/otus/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L18-testingOrigins/homework/src/main/java/ru/otus/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L18-testingOrigins/homework/src/main/java/ru/otus/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L18-testingOrigins/homework/src/main/java/ru/otus/game/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L18-testingOrigins/homework/src/main/java/ru/otus/game/DiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L18-testingOrigins/homework/src/main/java/ru/otus/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L18-testingOrigins/homework/src/main/java/ru/otus/game/GameWinnerConsolePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L18-testingOrigins/homework/src/main/java/ru/otus/game/GameWinnerPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L18-testingOrigins/homework/src/main/java/ru/otus/game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L18-testingOrigins/homework/src/main/java/ru/otus/tests/AllTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L18-testingOrigins/homework/src/main/java/ru/otus/tests/unit/DiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../L18-testingOrigins/homework/src/main/java/ru/otus/tests/unit/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screenshot_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Screenshot_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/7.4/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/7.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/7.4/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/7.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/7.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/cashmachine/bank/dao/AccountDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/cashmachine/bank/dao/CardsDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/cashmachine/bank/data/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/cashmachine/bank/data/Card.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/cashmachine/bank/db/Accounts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/cashmachine/bank/db/Cards.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/cashmachine/bank/service/AccountService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/cashmachine/bank/service/CardService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/cashmachine/bank/service/impl/AccountServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/cashmachine/bank/service/impl/CardServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/cashmachine/machine/data/CashMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/cashmachine/machine/data/MoneyBox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/cashmachine/machine/service/CashMachineService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/cashmachine/machine/service/MoneyBoxService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/cashmachine/machine/service/impl/CashMachineServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/classes/java/main/otus/study/cashmachine/machine/service/impl/MoneyBoxServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/cashmachine/bank/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/cashmachine/bank/dao/CardsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/cashmachine/bank/data/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/cashmachine/bank/data/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/cashmachine/bank/db/Accounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/cashmachine/bank/db/Cards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/cashmachine/bank/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/cashmachine/bank/service/CardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/cashmachine/bank/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/cashmachine/bank/service/impl/CardServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/cashmachine/machine/data/CashMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/cashmachine/machine/data/MoneyBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/cashmachine/machine/service/CashMachineService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/cashmachine/machine/service/MoneyBoxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/cashmachine/machine/service/impl/CashMachineServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/main/java/otus/study/cashmachine/machine/service/impl/MoneyBoxServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/test/java/otus/study/cashmachine/TestUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/test/java/otus/study/cashmachine/bank/service/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/test/java/otus/study/cashmachine/bank/service/CardServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/test/java/otus/study/cashmachine/machine/service/CashMachineServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../otus-unittest-homework/src/test/java/otus/study/cashmachine/machine/service/MoneyBoxServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework5/build/classes/java/main/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Homework5/build/classes/java/main/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework5/build/classes/java/main/org/example/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/Homework5/build/classes/java/main/org/example/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework5/build/classes/java/main/org/example/TestedClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/Homework5/build/classes/java/main/org/example/TestedClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework5/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Homework5/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Homework2_4" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2a9nhNvV45DQWYkKPzn9puAkMEX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\programms\OTUS\Homework2_4\Homework5\src\main\java\org\example" />
+      <recent name="D:\Documents\programms\OTUS\Homework2_4\Homework5\src" />
+      <recent name="D:\Documents\programms\OTUS\Homework2_4\Homework5\src\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tests in 'Homework2_4.Homework2'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Homework2:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'Homework2_4.Homework2'" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a695f579-ca4b-41be-944d-2a3d9b728043" name="Changes" comment="" />
+      <created>1703739781291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703739781291</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Дз Аннотации">
+      <created>1704859950479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704859950479</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Дз Аннотации">
+      <created>1704884166281</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704884166281</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Дз Аннотации" />
+    <option name="LAST_COMMIT_MESSAGE" value="Дз Аннотации" />
+  </component>
+</project>

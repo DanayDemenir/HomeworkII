@@ -1,0 +1,6 @@
+rootProject.name = 'Homework2_4'
+include 'Homework1'
+include 'Homework2'
+include 'Homework3'
+include 'Homework5'
+
